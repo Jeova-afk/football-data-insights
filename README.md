@@ -27,7 +27,7 @@ Projeto de análise exploratória de dados de jogadores do FIFA 24, desenvolvido
 
 ![Dashboard geral](images/dashboard_geral.png)
 
-### Ranking dos jogadores
+### Ranking dos jogadores com maior controle de bola
 
 ![Ranking dos jogadores com maior controle de bola](images/ranking_jogadores.png)
 
