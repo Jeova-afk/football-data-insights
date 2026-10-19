@@ -21,6 +21,16 @@ Projeto de análise exploratória de dados de jogadores do FIFA 24, desenvolvido
 - Matplotlib
 - Streamlit
 
+## Visualização do dashboard
+
+### Visão geral
+
+![Dashboard geral](images/dashboard_geral.png)
+
+### Ranking dos jogadores
+
+![Ranking dos jogadores com maior controle de bola](images/ranking_jogadores.png)
+
 ## Base de dados
 
 O projeto utiliza o dataset [FIFA 24 Player Stats](https://www.kaggle.com/datasets/rehandl23/fifa-24-player-stats-dataset), que contém informações sobre jogadores, clubes, países, idades e atributos técnicos.
@@ -55,4 +65,4 @@ Certifique-se de que o arquivo `player_stats.csv` esteja na mesma pasta dos scri
 
 ## Status do projeto
 
-Em desenvolvimento.
+Análise exploratória e dashboard desenvolvidos. Melhorias e publicação online planejadas.
